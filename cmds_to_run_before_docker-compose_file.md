@@ -8,5 +8,7 @@ This cmd is used to download the mysql version 5.6 image to use as database serv
 This cmd is used to download the Joomla image in which php and apache server is already preconfigured.
 # docker-compose up
 This cmd is used to run our docker-compose.yml file.
+# docker-compose stop
+This cmd is used to stiop the whole setup by just one click of this cmd.
 # docker-compose down
 This cmd can easily stop the containers.
