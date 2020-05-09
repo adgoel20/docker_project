@@ -34,3 +34,5 @@ This cmd is used to stiop the whole setup by just one click of this cmd.
 # docker-compose down
 This cmd can easily stop the containers.
 
+
+Each and every concept about docker was given by Mr.Vimal Daga sir and all these sessions are free of cost under IIEC_RISE campaign.All thanks to sir for teaching all these valuable concepts about docker.
